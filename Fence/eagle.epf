@@ -738,10 +738,10 @@ UsedLibrary="/Applications/EAGLE-8.0.2/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="240 23 1439 546"
+Loc="0 278 1199 853"
 State=2
 Number=0
 
 [Desktop]
-Screen="640 480"
+Screen="1440 900"
 Window="Win_1"

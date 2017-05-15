@@ -1203,7 +1203,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <part name="R11" library="01_FAB_Hello" deviceset="RESISTOR" device="1206" value="620"/>
 <part name="PULSES" library="fab (1)" deviceset="LED" device="FAB1206" value="Blue"/>
 <part name="GND13" library="01_FAB_Hello" deviceset="GND" device=""/>
-<part name="Q1" library="IRF640" deviceset="IRF640" device="N-H"/>
+<part name="Q1" library="IRF640" deviceset="IRF640" device="NS" value="IRF640NS"/>
 <part name="GND14" library="01_FAB_Hello" deviceset="GND" device=""/>
 <part name="R12" library="01_FAB_Hello" deviceset="RESISTOR" device="1206" value="0"/>
 <part name="IC1" library="SparkFun-AnalogIC" deviceset="NE555" device="D"/>
